@@ -8,4 +8,4 @@ There are difficulty levels, a move counter and even a menu (normal graphics wer
 
 ![Screenshot_28.png](Screenshot_28.png)
 
-![Screenshot_29.png](Screenshot_29.png)
+![Screenshot_29.png](Screenshot_29.png) 
